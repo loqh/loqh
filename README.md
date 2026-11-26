@@ -1,5 +1,5 @@
 #                                        Coding
-  <img src="https://www.hackthebox.eu/badge/image/1208026"/>
+  <p align="center"> <img src="https://www.hackthebox.eu/badge/image/1208026"/> </p>
   <img width="520" height="190" alt="2" src="https://github.com/user-attachments/assets/07694dae-f6a1-47a8-a62e-4ee38bd78bfd" />
   <a href="https://www.credly.com/badges/2857bb5a-c9ca-4dd2-8be4-2feaef457f73/public_url">
   <img width="150" height="150" alt="1" src="https://github.com/user-attachments/assets/cfefa162-4c2a-45d8-829d-9ec300ed0e8f" />
