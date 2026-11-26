@@ -2,7 +2,7 @@
   <p align="center"> <img src="https://www.hackthebox.eu/badge/image/1208026"/> </p>
   <a href="https://www.credly.com/badges/2857bb5a-c9ca-4dd2-8be4-2feaef457f73/public_url">
      <img width="176" height="176" alt="1" src="https://github.com/user-attachments/assets/c0007011-ff2b-4f2a-a3e0-ffda50101dd6" />
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="580" height="257" alt="rBtuVsOV" src="https://github.com/user-attachments/assets/3b29572c-e800-4b61-be72-0458b5a2a2bd" />
 
 
