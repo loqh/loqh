@@ -1,7 +1,7 @@
 #                                        Coding
   <p align="center"> <img src="https://www.hackthebox.eu/badge/image/1208026"/> </p>
-  <img width="190" height="190" alt="2" src="https://github.com/user-attachments/assets/07694dae-f6a1-47a8-a62e-4ee38bd78bfd" />
   <a href="https://www.credly.com/badges/2857bb5a-c9ca-4dd2-8be4-2feaef457f73/public_url">
+     <img width="176" height="176" alt="1" src="https://github.com/user-attachments/assets/c0007011-ff2b-4f2a-a3e0-ffda50101dd6" />
 </a>
 <img width="580" height="257" alt="rBtuVsOV" src="https://github.com/user-attachments/assets/3b29572c-e800-4b61-be72-0458b5a2a2bd" />
 
