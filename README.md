@@ -1,5 +1,7 @@
-#                                        Coding
+#  Coding
+<a href="https://app.hackthebox.com/users/1208026">
 <img src="https://www.hackthebox.eu/badge/image/1208026"/>
+</a>
   <a href="https://www.credly.com/badges/2857bb5a-c9ca-4dd2-8be4-2feaef457f73/public_url">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="176" height="176" alt="1" src="https://github.com/user-attachments/assets/c0007011-ff2b-4f2a-a3e0-ffda50101dd6" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
